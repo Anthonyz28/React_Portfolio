@@ -1,0 +1,23 @@
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-link {
+    width: 50px;
+    font-weight: 700;
+    border-radius: 6px;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+.active {
+    background: linear-gradient(
+        to left top,
+        rgba(206, 196, 250, 0.8),
+        rgba(17, 39, 163, 0.7)
+    );
+}

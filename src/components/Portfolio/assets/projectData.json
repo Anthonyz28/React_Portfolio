@@ -1,0 +1,49 @@
+[
+    {
+        "id": "0",
+        "name": "Password Generator",
+        "github": "https://github.com/Anthonyz28/Password-Generator",
+        "deployed": "https://anthonyz28.github.io/Password-Generator/",
+        "image": "./images/passwordGenerator.png"
+    },
+
+    {
+        "id": "1",
+        "name": "Tech Blog",
+        "github": "https://github.com/Anthonyz28/techBlog",
+        "deployed": "https://still-beach-61887.herokuapp.com",
+        "image": ""
+    },
+
+    {
+        "id": "2",
+        "name": "Party Assit",
+        "github": "https://github.com/albenchris/party-assist",
+        "deployed": "https://albenchris.github.io/party-assist/",
+        "image": "./images/partyAssit.png"
+    },
+
+    {
+        "id": "3",
+        "name": "Weather Dashboard",
+        "github": "https://github.com/Anthonyz28/Weather",
+        "deployed": "https://anthonyz28.github.io/Weather/",
+        "image": "./images/weather.png"
+    },
+
+    {
+        "id": "4",
+        "name": "ReadMe Generator",
+        "github": "https://github.com/Anthonyz28/readme-generator",
+        "deployed": "https://drive.google.com/file/d/1T1hEpJSaiLoX0KPkE4QfSteEY_FCfeid/view",
+        "image": ""
+    },
+
+    {
+        "id": "5",
+        "name": "Team Profile Generator",
+        "github": "https://github.com/Anthonyz28/Team-Profile-Generator",
+        "deployed": " https://drive.google.com/file/d/11TPyqQo3s9nG0syUriDBbxr-w9aPNwgg/view",
+        "image": "./images/teamGenerator.png"
+    }
+]
